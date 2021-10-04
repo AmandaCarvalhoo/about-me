@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+    <meta name="desciption" content="Mini Currículo com Html e CSS">
     <title>Amanda Carvalho - Sobre</title>
     <link rel="shortcut icon" href="/imgs/fav.png" />
 </head>
